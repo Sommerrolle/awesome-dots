@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  show-icons: true;
+}
+
+  @theme "~/.config/rofi/themes/rofidmenu.rasi"
+
+
